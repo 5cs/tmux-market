@@ -1,5 +1,5 @@
 # Market plugin for tmux
-[![GitHub]()](https://opensource.org/licenses/MIT)
+[![GitHub](https://img.shields.io/github/license/5cs/tmux-market)](https://opensource.org/licenses/MIT)
 
 Shows market in the status line, data provided by [CoinMarketCap](https://coinmarketcap.com/)
 
